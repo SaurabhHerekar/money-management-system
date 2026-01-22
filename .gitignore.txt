@@ -1,0 +1,14 @@
+# Java
+target/
+bin/
+*.class
+
+# OS junk
+.DS_Store
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
