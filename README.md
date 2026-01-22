@@ -85,12 +85,10 @@ MONEY_MANAGER_BACKEND_URL=http://localhost:8080
 cd moneymanager
 ./mvnw spring-boot:run
 
-Copy code
 
 Backend runs at:
 http://localhost:8080
 
-Copy code
 
 ---
 
@@ -100,12 +98,10 @@ cd moneymanagerwebapp
 npm install
 npm start
 
-Copy code
 
 Frontend runs at:
 http://localhost:3000
 
-Copy code
 
 ---
 
