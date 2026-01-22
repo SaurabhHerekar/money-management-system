@@ -1,14 +1,7 @@
-# Java
+.env
 target/
 bin/
 *.class
-
-# OS junk
 .DS_Store
-
-# Environment
-.env
-
-# IDE
 .vscode/
 .idea/
