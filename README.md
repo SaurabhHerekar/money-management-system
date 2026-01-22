@@ -78,44 +78,58 @@ MONEY_MANAGER_BACKEND_URL=http://localhost:8080
 
 ---
 
+---
+
 ## 🧪 How to Run Backend (Spring Boot)
 
-```bash
 cd moneymanager
 ./mvnw spring-boot:run
 
-Backend will run on:
+Copy code
+
+Backend runs at:
 http://localhost:8080
 
-## 🌐 How to run frontend
+Copy code
+
+---
+
+## 🌐 How to Run Frontend
+
 cd moneymanagerwebapp
 npm install
 npm start
 
-Frontend will run on:
+Copy code
+
+Frontend runs at:
 http://localhost:3000
+
+Copy code
+
+---
 
 ## 🔐 Security Notes
 
-Secrets are not committed
+- Secrets are not committed
+- `.env`, `target/`, `.class`, `.DS_Store` are ignored via `.gitignore`
+- GitHub Push Protection compliant
 
-.env, target/, .class, .DS_Store are ignored via .gitignore
-
-GitHub Push Protection compliant
+---
 
 ## 📌 Future Improvements
 
-Charts & analytics
+- Charts & analytics
+- Budget planning
+- Export reports (PDF / Excel)
+- Cloud deployment (AWS / Docker)
 
-Budget planning
+---
 
-Export reports (PDF/Excel)
+## 👨‍💻 Author
 
-Cloud deployment (AWS / Docker)
-
-## 👨‍💻 Author:
-Saurabh Herekar
-Java Full Stack Developer
+**Saurabh Herekar**  
+Java Full Stack Developer  
 GitHub: https://github.com/SaurabhHerekar
 
 
