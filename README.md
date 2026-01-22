@@ -87,7 +87,7 @@ cd moneymanager
 Backend will run on:
 http://localhost:8080
 
-##🌐 How to run frontend
+## 🌐 How to run frontend
 cd moneymanagerwebapp
 npm install
 npm start
@@ -95,7 +95,7 @@ npm start
 Frontend will run on:
 http://localhost:3000
 
-##🔐 Security Notes
+## 🔐 Security Notes
 
 Secrets are not committed
 
@@ -103,7 +103,7 @@ Secrets are not committed
 
 GitHub Push Protection compliant
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Charts & analytics
 
@@ -113,7 +113,7 @@ Export reports (PDF/Excel)
 
 Cloud deployment (AWS / Docker)
 
-##👨‍💻 Author:
+## 👨‍💻 Author:
 Saurabh Herekar
 Java Full Stack Developer
 GitHub: https://github.com/SaurabhHerekar
